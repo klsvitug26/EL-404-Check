@@ -1,0 +1,4 @@
+🌐 [308] https://www.essilorluxottica.com/en/group/das
+🌐 [404] https://www.essilorluxottica.com/en/group/das/
+🚀 Navigated to https://www.essilorluxottica.com/en/group/das/ (status: 404)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/group/das | Actual: https://www.essilorluxottica.com/en/group/das/

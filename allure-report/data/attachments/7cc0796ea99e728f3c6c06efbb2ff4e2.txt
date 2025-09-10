@@ -1,0 +1,4 @@
+==============================
+🧪 Starting test for language: FR
+🌍 Navigating to: https://www.essilorluxottica.com/fr
+🌐 Starting page validation for: https://www.essilorluxottica.com/fr

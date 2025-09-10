@@ -1,0 +1,14 @@
+🌐 [200] https://www.essilorluxottica.com/en/
+🌐 [200] https://media.essilorluxottica.com/cms/caas/v1/media/95818/data/picture/77beaceb5d61ccfe13f7ffc6c9f4cfff.jpg
+🌐 [200] https://www.essilorluxottica.com/_next/static/media/5d585bb0a590d8e6-s.p.woff2
+🌐 [200] https://media.essilorluxottica.com/cms/caas/v1/media/126840/data/picture/14902a90a1d57180a96f120af0692b87.png
+🌐 [200] https://www.essilorluxottica.com/_next/static/media/f1747500fe8c269b-s.p.woff2
+🌐 [200] https://www.essilorluxottica.com/_next/static/media/f6c2d94f44e03986-s.p.woff2
+🌐 [200] https://www.essilorluxottica.com/_next/static/css/ed31e49b6b7d9670.css
+🌐 [200] https://www.essilorluxottica.com/_next/static/css/dcd4e44737d35dad.css
+🌐 [200] https://www.essilorluxottica.com/_next/static/media/aab15f409f5ade07-s.p.woff2
+🌐 [200] https://www.essilorluxottica.com/_next/static/media/f5f9948567a0bfa4-s.p.woff2
+🚀 Navigated to https://www.essilorluxottica.com/en/ (status: 200)
+🌐 [200] https://www.essilorluxottica.com/_next/static/media/fec4e13ae6f8e40e-s.p.ttf
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/ | Actual: https://www.essilorluxottica.com/en/
+✅ URL matched: https://www.essilorluxottica.com/en/

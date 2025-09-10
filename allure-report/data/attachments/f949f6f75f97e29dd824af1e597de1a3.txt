@@ -1,0 +1,36 @@
+
+=== Navigating Page: whoWeAre ===
+🌐 [200] https://www.essilorluxottica.com/en/group/
+🚀 Navigated to https://www.essilorluxottica.com/en/group/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/group/ | Actual: https://www.essilorluxottica.com/en/group/
+✅ URL matched: https://www.essilorluxottica.com/en/group/
+
+=== Navigating Page: mission ===
+🌐 [200] https://www.essilorluxottica.com/en/group/mission/
+🚀 Navigated to https://www.essilorluxottica.com/en/group/mission/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/group/mission/ | Actual: https://www.essilorluxottica.com/en/group/mission/
+✅ URL matched: https://www.essilorluxottica.com/en/group/mission/
+
+=== Navigating Page: innovation ===
+🌐 [200] https://www.essilorluxottica.com/en/group/innovation/
+🚀 Navigated to https://www.essilorluxottica.com/en/group/innovation/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/group/innovation/ | Actual: https://www.essilorluxottica.com/en/group/innovation/
+✅ URL matched: https://www.essilorluxottica.com/en/group/innovation/
+
+=== Navigating Page: strategy ===
+🌐 [200] https://www.essilorluxottica.com/en/group/strategy/
+🚀 Navigated to https://www.essilorluxottica.com/en/group/strategy/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/group/strategy/ | Actual: https://www.essilorluxottica.com/en/group/strategy/
+✅ URL matched: https://www.essilorluxottica.com/en/group/strategy/
+
+=== Navigating Page: footprint ===
+🌐 [200] https://www.essilorluxottica.com/en/group/global-footprint/
+🚀 Navigated to https://www.essilorluxottica.com/en/group/global-footprint/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/group/global-footprint/ | Actual: https://www.essilorluxottica.com/en/group/global-footprint/
+✅ URL matched: https://www.essilorluxottica.com/en/group/global-footprint/
+
+=== Navigating Page: history ===
+🌐 [200] https://www.essilorluxottica.com/en/group/history/
+🚀 Navigated to https://www.essilorluxottica.com/en/group/history/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/group/history/ | Actual: https://www.essilorluxottica.com/en/group/history/
+✅ URL matched: https://www.essilorluxottica.com/en/group/history/

@@ -1,0 +1,11 @@
+Starting page validation for: https://www.essilorluxottica.com/en/
+Cookie popup found. Clicking accept...
+Cookies accepted.
+Validating URL: "https://www.essilorluxottica.com/en/"
+URL validated.
+Page title: "Home"
+Page is not 404.
+Checking visibility of element: (//h1[@class="sc-e706a387-0 iMNwsT"])[1]
+Element is visible.
+Page validation complete.
+

@@ -1,0 +1,13 @@
+🌐 [308] https://www.essilorluxottica.com/en/dsa
+🌐 [404] https://www.essilorluxottica.com/en/dsa/
+🚀 Navigated to https://www.essilorluxottica.com/en/dsa/ (status: 404)
+🌐 [200] https://www.essilorluxottica.com/_next/static/media/3e12da39cac78934-s.p.woff2
+🌐 [200] https://www.essilorluxottica.com/_next/static/media/5d585bb0a590d8e6-s.p.woff2
+🌐 [200] https://www.essilorluxottica.com/_next/static/media/aab15f409f5ade07-s.p.woff2
+🌐 [200] https://www.essilorluxottica.com/_next/static/media/f1747500fe8c269b-s.p.woff2
+🌐 [200] https://www.essilorluxottica.com/_next/static/media/f5f9948567a0bfa4-s.p.woff2
+🌐 [200] https://www.essilorluxottica.com/_next/static/chunks/webpack-b20a262b4bea4987.js
+🌐 [200] https://www.essilorluxottica.com/_next/static/chunks/fd9d1056-23d269fad292388a.js
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/dsa | Actual: https://www.essilorluxottica.com/en/dsa/
+🌐 [200] https://www.essilorluxottica.com/_next/static/chunks/117-a52a379ec3da338c.js
+🌐 [200] https://www.essilorluxottica.com/_next/static/chunks/main-app-0ab5e86e22763773.js

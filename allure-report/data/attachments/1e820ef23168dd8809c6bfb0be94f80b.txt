@@ -1,0 +1,4 @@
+🌐 [200] https://www.essilorluxottica.com/en/group/mission/
+🚀 Navigated to https://www.essilorluxottica.com/en/group/mission/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/group/mission/ | Actual: https://www.essilorluxottica.com/en/group/mission/
+✅ URL matched: https://www.essilorluxottica.com/en/group/mission/

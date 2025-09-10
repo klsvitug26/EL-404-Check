@@ -1,0 +1,30 @@
+
+=== Navigating Brands Page: overview ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/ (status: 200)
+✅ URL matched: https://www.essilorluxottica.com/en/brands/
+
+=== Navigating Brands Page: eyecare ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/eyecare/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/eyecare/ (status: 200)
+✅ URL matched: https://www.essilorluxottica.com/en/brands/eyecare/
+
+=== Navigating Brands Page: eyewear ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/eyewear/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/eyewear/ (status: 200)
+✅ URL matched: https://www.essilorluxottica.com/en/brands/eyewear/
+
+=== Navigating Brands Page: d2c ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/direct-to-consumer/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/direct-to-consumer/ (status: 200)
+✅ URL matched: https://www.essilorluxottica.com/en/brands/direct-to-consumer/
+
+=== Navigating Brands Page: smartEyewear ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/smart-eyewear-solutions/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/smart-eyewear-solutions/ (status: 200)
+✅ URL matched: https://www.essilorluxottica.com/en/brands/smart-eyewear-solutions/
+
+=== Navigating Brands Page: apparel ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/apparel-footwear-accessories/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/apparel-footwear-accessories/ (status: 200)
+✅ URL matched: https://www.essilorluxottica.com/en/brands/apparel-footwear-accessories/

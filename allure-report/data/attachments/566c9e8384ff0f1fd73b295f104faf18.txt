@@ -1,0 +1,7 @@
+==============================
+🧪 Starting test for language: EN
+🌍 Navigating to: https://www.essilorluxottica.com/en
+🌐 Starting page validation for: https://www.essilorluxottica.com/en
+🍪 Cookie popup found. Clicking accept...
+✅ Cookies accepted.
+🔗 Validating URL: expected "https://www.essilorluxottica.com/en"

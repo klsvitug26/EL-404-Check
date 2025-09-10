@@ -1,0 +1,6 @@
+🌍 Navigated to https://www.essilorluxottica.com/en/ (status: 200)
+👁️ Element visible: a[href="/en/group/"]
+👆 Hovered on: a[href="/en/group/"]
+👁️ Element visible: a[href="/en/group/"]
+🖱️ Clicked on: a[href="/en/group/"]
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/group/ | Actual: https://www.essilorluxottica.com/en/

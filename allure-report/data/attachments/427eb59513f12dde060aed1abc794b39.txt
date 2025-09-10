@@ -1,0 +1,4 @@
+🌐 [200] https://www.essilorluxottica.com/en/group/innovation/
+🚀 Navigated to https://www.essilorluxottica.com/en/group/innovation/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/group/innovation/ | Actual: https://www.essilorluxottica.com/en/group/innovation/
+✅ URL matched: https://www.essilorluxottica.com/en/group/innovation/

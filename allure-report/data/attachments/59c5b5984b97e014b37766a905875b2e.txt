@@ -1,0 +1,8 @@
+Validating Home Page...
+Starting page validation for: https://www.essilorluxottica.com/en/
+No cookie banner displayed.
+Validating URL: "https://www.essilorluxottica.com/en/"
+URL validated.
+Page title: "Home"
+Page is not 404.
+Checking expected URL: https://www.essilorluxottica.com/en

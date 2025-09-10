@@ -1,0 +1,4 @@
+==============================
+🧪 Starting test for language: JP
+🌍 Navigating to: https://www.essilorluxottica.com/jp
+🌐 Starting page validation for: https://www.essilorluxottica.com/jp

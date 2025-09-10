@@ -1,0 +1,66 @@
+
+=== Navigating Page: overview ===
+🌐 [200] https://www.essilorluxottica.com/en/governance/
+🚀 Navigated to https://www.essilorluxottica.com/en/governance/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/governance/ | Actual: https://www.essilorluxottica.com/en/governance/
+✅ URL matched: https://www.essilorluxottica.com/en/governance/
+
+=== Navigating Page: boardOfDirectors ===
+🌐 [200] https://www.essilorluxottica.com/en/governance/board-directors/
+🚀 Navigated to https://www.essilorluxottica.com/en/governance/board-directors/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/governance/board-directors/ | Actual: https://www.essilorluxottica.com/en/governance/board-directors/
+✅ URL matched: https://www.essilorluxottica.com/en/governance/board-directors/
+
+=== Navigating Page: boardCommitteess ===
+🌐 [200] https://www.essilorluxottica.com/en/governance/committees/
+🚀 Navigated to https://www.essilorluxottica.com/en/governance/committees/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/governance/committees/ | Actual: https://www.essilorluxottica.com/en/governance/committees/
+✅ URL matched: https://www.essilorluxottica.com/en/governance/committees/
+
+=== Navigating Page: simplifiedChart ===
+🌐 [200] https://www.essilorluxottica.com/en/governance/simplified-corporate-chart/
+🚀 Navigated to https://www.essilorluxottica.com/en/governance/simplified-corporate-chart/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/governance/simplified-corporate-chart/ | Actual: https://www.essilorluxottica.com/en/governance/simplified-corporate-chart/
+✅ URL matched: https://www.essilorluxottica.com/en/governance/simplified-corporate-chart/
+
+=== Navigating Page: compliance ===
+🌐 [200] https://www.essilorluxottica.com/en/governance/ethics/
+🚀 Navigated to https://www.essilorluxottica.com/en/governance/ethics/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/governance/ethics/ | Actual: https://www.essilorluxottica.com/en/governance/ethics/
+✅ URL matched: https://www.essilorluxottica.com/en/governance/ethics/
+
+=== Navigating Page: dataPrivacy ===
+🌐 [200] https://www.essilorluxottica.com/en/governance/data-privacy/
+🚀 Navigated to https://www.essilorluxottica.com/en/governance/data-privacy/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/governance/data-privacy/ | Actual: https://www.essilorluxottica.com/en/governance/data-privacy/
+✅ URL matched: https://www.essilorluxottica.com/en/governance/data-privacy/
+
+=== Navigating Page: informationSecurity ===
+🌐 [200] https://www.essilorluxottica.com/en/governance/information-security/
+🚀 Navigated to https://www.essilorluxottica.com/en/governance/information-security/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/governance/information-security/ | Actual: https://www.essilorluxottica.com/en/governance/information-security/
+✅ URL matched: https://www.essilorluxottica.com/en/governance/information-security/
+
+=== Navigating Page: environmentHealth ===
+🌐 [404] https://www.essilorluxottica.com/en/governance/environment-health-safety/
+🚀 Navigated to https://www.essilorluxottica.com/en/governance/environment-health-safety/ (status: 404)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/governance/environment-health-safety/ | Actual: https://www.essilorluxottica.com/en/governance/environment-health-safety/
+✅ URL matched: https://www.essilorluxottica.com/en/governance/environment-health-safety/
+
+=== Navigating Page: quality ===
+🌐 [200] https://www.essilorluxottica.com/en/governance/quality/
+🚀 Navigated to https://www.essilorluxottica.com/en/governance/quality/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/governance/quality/ | Actual: https://www.essilorluxottica.com/en/governance/quality/
+✅ URL matched: https://www.essilorluxottica.com/en/governance/quality/
+
+=== Navigating Page: employeeShareholding ===
+🌐 [200] https://www.essilorluxottica.com/en/governance/employee-shareholding/
+🚀 Navigated to https://www.essilorluxottica.com/en/governance/employee-shareholding/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/governance/employee-shareholding/ | Actual: https://www.essilorluxottica.com/en/governance/employee-shareholding/
+✅ URL matched: https://www.essilorluxottica.com/en/governance/employee-shareholding/
+
+=== Navigating Page: publications ===
+🌐 [200] https://www.essilorluxottica.com/en/governance/publications/
+🚀 Navigated to https://www.essilorluxottica.com/en/governance/publications/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/governance/publications/ | Actual: https://www.essilorluxottica.com/en/governance/publications/
+✅ URL matched: https://www.essilorluxottica.com/en/governance/publications/

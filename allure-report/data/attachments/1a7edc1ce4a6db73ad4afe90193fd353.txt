@@ -1,0 +1,17 @@
+==============================
+🧪 Starting test for language: PT
+🌍 Navigating to: https://www.essilorluxottica.com/pt/
+🌐 Starting page validation for: https://www.essilorluxottica.com/pt/
+🍪 Cookie popup found. Clicking accept...
+✅ Cookies accepted.
+🔗 Validating URL: expected "https://www.essilorluxottica.com/pt/"
+✅ URL validated.
+📄 Page title: "Home"
+✅ Page is not 404.
+🔍 Checking visibility of element: (//h1[@class="sc-e706a387-0 iMNwsT"])[1]
+✅ Element is visible.
+✅ Page validation complete.
+
+🎉 Test for [PT] completed.
+==============================
+

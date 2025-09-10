@@ -1,0 +1,36 @@
+
+=== Navigating Page: overview ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/brands/ | Actual: https://www.essilorluxottica.com/en/brands/
+✅ URL matched: https://www.essilorluxottica.com/en/brands/
+
+=== Navigating Page: eyecare ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/eyecare/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/eyecare/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/brands/eyecare/ | Actual: https://www.essilorluxottica.com/en/brands/eyecare/
+✅ URL matched: https://www.essilorluxottica.com/en/brands/eyecare/
+
+=== Navigating Page: eyewear ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/eyewear/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/eyewear/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/brands/eyewear/ | Actual: https://www.essilorluxottica.com/en/brands/eyewear/
+✅ URL matched: https://www.essilorluxottica.com/en/brands/eyewear/
+
+=== Navigating Page: d2c ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/direct-to-consumer/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/direct-to-consumer/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/brands/direct-to-consumer/ | Actual: https://www.essilorluxottica.com/en/brands/direct-to-consumer/
+✅ URL matched: https://www.essilorluxottica.com/en/brands/direct-to-consumer/
+
+=== Navigating Page: smartEyewear ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/smart-eyewear-solutions/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/smart-eyewear-solutions/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/brands/smart-eyewear-solutions/ | Actual: https://www.essilorluxottica.com/en/brands/smart-eyewear-solutions/
+✅ URL matched: https://www.essilorluxottica.com/en/brands/smart-eyewear-solutions/
+
+=== Navigating Page: apparel ===
+🌐 [200] https://www.essilorluxottica.com/en/brands/apparel-footwear-accessories/
+🚀 Navigated to https://www.essilorluxottica.com/en/brands/apparel-footwear-accessories/ (status: 200)
+🔍 Validating → Expected: https://www.essilorluxottica.com/en/brands/apparel-footwear-accessories/ | Actual: https://www.essilorluxottica.com/en/brands/apparel-footwear-accessories/
+✅ URL matched: https://www.essilorluxottica.com/en/brands/apparel-footwear-accessories/

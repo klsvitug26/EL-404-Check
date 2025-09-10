@@ -1,0 +1,24 @@
+
+=== Navigating Group Page: whoWeAre ===
+🌐 [200] https://www.essilorluxottica.com/en/group/
+✅ URL matched: https://www.essilorluxottica.com/en/group/
+
+=== Navigating Group Page: mission ===
+🌐 [200] https://www.essilorluxottica.com/en/group/mission/
+✅ URL matched: https://www.essilorluxottica.com/en/group/mission/
+
+=== Navigating Group Page: innovation ===
+🌐 [200] https://www.essilorluxottica.com/en/group/innovation/
+✅ URL matched: https://www.essilorluxottica.com/en/group/innovation/
+
+=== Navigating Group Page: strategy ===
+🌐 [200] https://www.essilorluxottica.com/en/group/strategy/
+✅ URL matched: https://www.essilorluxottica.com/en/group/strategy/
+
+=== Navigating Group Page: footprint ===
+🌐 [200] https://www.essilorluxottica.com/en/group/global-footprint/
+✅ URL matched: https://www.essilorluxottica.com/en/group/global-footprint/
+
+=== Navigating Group Page: history ===
+🌐 [200] https://www.essilorluxottica.com/en/group/history/
+✅ URL matched: https://www.essilorluxottica.com/en/group/history/
