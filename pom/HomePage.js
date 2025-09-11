@@ -1,18 +1,19 @@
-const { WebUtils } = require('../utils/WebUtils');
+// pom/HomePage.js
+const { BasePage } = require('./BasePage');
 const { siteLocators } = require('../locators/siteLocators');
 
-class HomePage {
-  constructor(page) {
-    this.page = page;
-    this.webutils = new WebUtils(page);
+class HomePage extends BasePage {
+  constructor(page, lang = 'en') {
+    super(page, lang, 'homePage');
+    this.homeLocators = siteLocators(lang).homePage; // Home needs direct URL
   }
 
   async navigateToHome() {
-    await this.webutils.goto(siteLocators.homePage.url);
+    await this.webutils.goto(this.homeLocators.url);
   }
 
   async validateHomeUrl() {
-    await this.webutils.validateUrl(siteLocators.homePage.url);
+    await this.webutils.validateUrl(this.homeLocators.url);
   }
 }
 

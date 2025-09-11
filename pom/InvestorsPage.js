@@ -1,17 +1,9 @@
-const { WebUtils } = require('../utils/WebUtils');
+// pom/InvestorsPage.js
+const { BasePage } = require('./BasePage');
 
-class InvestorsPage {
-  constructor(page) {
-    this.page = page;
-    this.webutils = new WebUtils(page);
-  }
-
-  async goto(url) {
-    await this.webutils.goto(url);
-  }
-
-  async validateUrl(expectedUrl) {
-    await this.webutils.validateUrl(expectedUrl);
+class InvestorsPage extends BasePage {
+  constructor(page, lang = 'en') {
+    super(page, lang, 'investorsPage');
   }
 }
 

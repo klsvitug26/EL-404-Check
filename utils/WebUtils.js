@@ -4,7 +4,6 @@ class WebUtils {
   constructor(page) {
     this.page = page;
 
-    // Log only "document" responses (main page loads)
     this.page.on('response', async (response) => {
       try {
         if (response.request().resourceType() === 'document') {
@@ -18,7 +17,6 @@ class WebUtils {
     });
   }
 
-  // Safe navigation: works with normal URLs and #anchors
   async goto(url) {
     const response = await this.page.goto(url, { waitUntil: 'domcontentloaded' });
 
@@ -28,7 +26,6 @@ class WebUtils {
         console.warn(`❌ Warning: Page returned status ${response.status()} at ${url}`);
       }
     } else {
-      // Happens with same-document navigation (like #anchor links)
       console.log(`🚀 Navigated to ${this.page.url()} (no new response, likely anchor navigation)`);
     }
 
@@ -64,7 +61,6 @@ class WebUtils {
     }
   }
 
-  // Loop through page definitions and validate them
   async validatePages(pages) {
     for (const [name, data] of Object.entries(pages || {})) {
       if (!data || !data.url) {

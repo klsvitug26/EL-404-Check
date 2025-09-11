@@ -1,17 +1,9 @@
-const { WebUtils } = require('../utils/WebUtils');
+// pom/CareersPage.js
+const { BasePage } = require('./BasePage');
 
-class CareersPage {
-  constructor(page) {
-    this.page = page;
-    this.webutils = new WebUtils(page);
-  }
-
-  async goto(url) {
-    await this.webutils.goto(url);
-  }
-
-  async validateUrl(expectedUrl) {
-    await this.webutils.validateUrl(expectedUrl);
+class CareersPage extends BasePage {
+  constructor(page, lang = 'en') {
+    super(page, lang, 'careersPage');
   }
 }
 

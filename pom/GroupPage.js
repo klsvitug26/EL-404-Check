@@ -1,17 +1,9 @@
-const { WebUtils } = require('../utils/WebUtils');
+// pom/GroupPage.js
+const { BasePage } = require('./BasePage');
 
-class GroupPage {
-  constructor(page) {
-    this.page = page;
-    this.webutils = new WebUtils(page);
-  }
-
-  async goto(url) {
-    await this.webutils.goto(url);
-  }
-
-  async validateUrl(expectedUrl) {
-    await this.webutils.validateUrl(expectedUrl);
+class GroupPage extends BasePage {
+  constructor(page, lang = 'en') {
+    super(page, lang, 'groupPage'); // all locators under groupPage
   }
 }
 
