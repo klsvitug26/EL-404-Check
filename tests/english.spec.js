@@ -8,56 +8,56 @@ const { InvestorsPage } = require('../pom/InvestorsPage');
 const { CareersPage } = require('../pom/CareersPage');
 const { NewsroomPage } = require('../pom/NewsroomPage');
 const { FooterPage } = require('../pom/FooterPage');
-const { siteLocators } = require('../locators/siteLocators');
 
-test.describe('EssilorLuxottica Website - English', () => {
+// ✅ Choose the language you want to test
+const lang = 'es'; // change to 'fr', 'it', etc.
+
+test.describe(`EssilorLuxottica Website - Language: ${lang}`, () => {
 
   test('Validate Homepage', async ({ page }) => {
-    const homePage = new HomePage(page);
+    const homePage = new HomePage(page, lang);
     await homePage.navigateToHome();
     await homePage.validateHomeUrl();
   });
 
   test('Validate Group Pages', async ({ page }) => {
-    const groupPage = new GroupPage(page);
-    await groupPage.webutils.validatePages(siteLocators.groupPage);
+    const groupPage = new GroupPage(page, lang);
+    await groupPage.validatePages();
   });
 
   test('Validate Brands Pages', async ({ page }) => {
-    const brandsPage = new BrandsPage(page);
-    await brandsPage.webutils.validatePages(siteLocators.brandsPage);
+    const brandsPage = new BrandsPage(page, lang);
+    await brandsPage.validatePages();
   });
 
   test('Validate Governance Pages', async ({ page }) => {
-    const governancePage = new GovernancePage(page);
-    await governancePage.webutils.validatePages(siteLocators.governancePage);
+    const governancePage = new GovernancePage(page, lang);
+    await governancePage.validatePages();
   });
 
   test('Validate Sustainability Pages', async ({ page }) => {
-    const sustainabilityPage = new SustainabilityPage(page);
-    await sustainabilityPage.webutils.validatePages(siteLocators.sustainabilityPage);
+    const sustainabilityPage = new SustainabilityPage(page, lang);
+    await sustainabilityPage.validatePages();
   });
 
   test('Validate Investors Pages', async ({ page }) => {
-    const investorsPage = new InvestorsPage(page);
-    await investorsPage.webutils.validatePages(siteLocators.investorsPage);
+    const investorsPage = new InvestorsPage(page, lang);
+    await investorsPage.validatePages();
   });
 
   test('Validate Careers Pages', async ({ page }) => {
-    const careersPage = new CareersPage(page);
-    await careersPage.webutils.validatePages(siteLocators.careersPage);
+    const careersPage = new CareersPage(page, lang);
+    await careersPage.validatePages();
   });
 
   test('Validate Newsroom Pages', async ({ page }) => {
-    const newsroomPage = new NewsroomPage(page);
-    await newsroomPage.webutils.validatePages(siteLocators.newsroomPage);
+    const newsroomPage = new NewsroomPage(page, lang);
+    await newsroomPage.validatePages();
   });
 
   test('Validate Footer Pages', async ({ page }) => {
-    const footerPage = new FooterPage(page);
-    await footerPage.webutils.validatePages(siteLocators.footerPage);
+    const footerPage = new FooterPage(page, lang);
+    await footerPage.validatePages();
   });
-  
-
 
 });
