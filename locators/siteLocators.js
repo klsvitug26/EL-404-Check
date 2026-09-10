@@ -68,9 +68,21 @@ const siteLocators = (lang = "en") => {
         url: buildUrl(t.lang, `/${t.brands}/${t.smartEyewear}/`),
         selector: buildSelector(t.lang, `/${t.brands}/${t.smartEyewear}/`)
       },
+      eyeHealth: {
+        url: buildUrl(t.lang, `/${t.brands}/${t.eyeHealth}/`),
+        selector: buildSelector(t.lang, `/${t.brands}/${t.eyeHealth}/`)
+      },
       apparel: {
         url: buildUrl(t.lang, `/${t.brands}/${t.apparel}/`),
         selector: buildSelector(t.lang, `/${t.brands}/${t.apparel}/`)
+      },
+      conformity: {
+        url: buildUrl(t.lang, `/${t.brands}/${t.conformity}/`),
+        selector: buildSelector(t.lang, `/${t.brands}/${t.apparel}/`)
+      },
+      customerCare: {
+        url: buildUrl(t.lang, `/${t.brands}/${t.customercare}/`),
+        selector: buildSelector(t.lang, `/${t.brands}/${t.customercare}/`)
       }
     },
 
@@ -83,6 +95,62 @@ const siteLocators = (lang = "en") => {
       boardOfDirectors: {
         url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/`),
         selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/`)
+      },
+      milleri: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.milleri}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.milleri}/`)
+      },
+      saillant: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.saillant}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.saillant}/`)
+      },
+      bard: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.bard}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.bard}/`)
+      },
+      bardin: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.bardin}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.bardin}/`)
+      },
+      biamonti: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.biamonti}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.biamonti}/`)
+      },
+      brown: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.brown}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.brown}/`)
+      },
+      roquette: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.roquette}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.roquette}/`)
+      },
+      gonzalo: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.gonzalo}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.gonzalo}/`)
+      },
+      notari: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.notari}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.notari}/`)
+      },
+      piramal: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.piramal}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.piramal}/`)
+      },
+      pitre: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.pitre}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.pitre}/`)
+      },
+      scocchia: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.scocchia}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.scocchia}/`)
+      },
+      siemens: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.siemens}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.siemens}/`)
+      },
+      zappia: {
+        url: buildUrl(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.zappia}/`),
+        selector: buildSelector(t.lang, `/${t.governance}/${t.boardOfDirectors}/${t.zappia}/`)
       },
       boardCommittees: {
         url: buildUrl(t.lang, `/${t.governance}/${t.committees}/`),
@@ -154,7 +222,7 @@ const siteLocators = (lang = "en") => {
       }
     },
 
-    // Investors Page
+    // Investors Page, for ES, JP and PT, this pages redirects to EN
     investorsPage: {
       overview: {
         url: buildUrl(t.lang, `/${t.investors}/`),
@@ -164,9 +232,33 @@ const siteLocators = (lang = "en") => {
         url: buildUrl(t.lang, `/${t.investors}/${t.financialPublications}/`),
         selector: buildSelector(t.lang, `/${t.investors}/${t.financialPublications}/`)
       },
+      essilorArchive: {
+        url: buildUrl(t.lang, `/${t.investors}/${t.financialPublications}/${t.essilorArchive}/`),
+        selector: buildSelector(t.lang, `/${t.investors}/${t.financialPublications}/${t.essilorArchive}/`)
+      },
+      luxotticaArchive: {
+        url: buildUrl(t.lang, `/${t.investors}/${t.financialPublications}/${t.luxotticaArchive}/`),
+        selector: buildSelector(t.lang, `/${t.investors}/${t.financialPublications}/${t.luxotticaArchive}/`)
+      },
+      grandvisionArchive: {
+        url: buildUrl(t.lang, `/${t.investors}/${t.financialPublications}/${t.grandvisionArchive}/`),
+        selector: buildSelector(t.lang, `/${t.investors}/${t.financialPublications}/${t.grandvisionArchive}/`)
+      },
       regulatoryInfo: {
         url: buildUrl(t.lang, `/${t.investors}/${t.regulatoryInfo}/`),
         selector: buildSelector(t.lang, `/${t.investors}/${t.regulatoryInfo}/`)
+      },
+      annualShareholders: {
+        url: buildUrl(t.lang, `/${t.investors}/${t.annualShareholders}/`),
+        selector: buildSelector(t.lang, `/${t.investors}/${t.annualShareholders}/`)
+      },
+      agm2025 :{
+        url: buildUrl(t.lang, `/${t.investors}/${t.annualShareholders}/${t.agm2025}/`),
+        selector: buildSelector(t.lang, `/${t.investors}/${t.annualShareholders}/${t.agm2025}/`)
+      },
+      agm2024 :{
+        url: buildUrl(t.lang, `/${t.investors}/${t.annualShareholders}/${t.agm2024}/`),
+        selector: buildSelector(t.lang, `/${t.investors}/${t.annualShareholders}/${t.agm2024}/`)
       },
       stocksKeyInformation: {
         url: buildUrl(t.lang, `/${t.investors}/${t.stocksKeyInformation}`),
@@ -226,13 +318,17 @@ const siteLocators = (lang = "en") => {
       }
     },
 
-    // Newsroom Page
+    // Newsroom Page, for ES, JP and PT, press releases redirects to EN
     newsroomPage: {
       overview: {
         url: buildUrl(t.lang, `/${t.newsroom}/`),
         selector: buildSelector(t.lang, `/${t.newsroom}/`)
       },
-      pressReleases: {
+      overview: {
+        url: buildUrl(t.lang, `/${t.newsroom}/`),
+        selector: buildSelector(t.lang, `/${t.newsroom}/`)
+      },
+      pressRelease: {
         url: buildUrl(t.lang, `/${t.newsroom}/${t.pressReleases}/`),
         selector: buildSelector(t.lang, `/${t.newsroom}/${t.pressReleases}/`)
       },
@@ -247,7 +343,148 @@ const siteLocators = (lang = "en") => {
       mediaContacts: {
         url: buildUrl(t.lang, `/${t.newsroom}/${t.mediaContacts}/`),
         selector: buildSelector(t.lang, `/${t.newsroom}/${t.mediaContacts}/`)
-      }
+      },
+      _2023hightlights: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/`)
+      },
+      _2023hightlight1: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight1"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight1"]}/`),
+      },
+      _2023hightlight2: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight2"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight2"]}/`),
+      },
+      _2023hightlight3: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight3"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight3"]}/`),
+      },
+      _2023hightlight4: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight4"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight4"]}/`),
+      },
+      _2023hightlight5: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight5"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight5"]}/`),
+      },
+      _2023hightlight6: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight6"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight6"]}/`),
+      },
+      _2023hightlight7: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight7"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight7"]}/`),
+      },
+      _2023hightlight8: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight8"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight8"]}/`),
+      },
+      _2023hightlight9: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight9"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight9"]}/`),
+      },
+      _2023hightlight10: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight10"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight10"]}/`),
+      },
+      _2023hightlight11: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight11"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight11"]}/`),
+      },
+      _2023hightlight12: {
+        url: buildUrl(t.lang, `/${t["2023highlights"]}/${t["2023highlight12"]}/`),
+        selector: buildSelector(t.lang, `/${t["2023highlights"]}/${t["2023highlight12"]}/`),
+      },
+       _2024hightlights: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/`)
+      },
+      _2024hightlight1: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight1"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight1"]}/`),
+      },
+       _2024hightlight2: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight2"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight2"]}/`),
+      },
+       _2024hightlight3: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight3"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight3"]}/`),
+      },
+       _2024hightlight4: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight4"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight4"]}/`),
+      },
+       _2024hightlight5: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight5"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight5"]}/`),
+      },
+       _2024hightlight6: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight6"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight6"]}/`),
+      },
+       _2024hightlight7: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight7"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight7"]}/`),
+      },
+       _2024hightlight8: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight8"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight8"]}/`),
+      },
+       _2024hightlight9: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight9"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight9"]}/`),
+      },
+       _2024hightlight10: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight10"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight10"]}/`),
+      },
+       _2024hightlight11: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight11"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight11"]}/`),
+      },
+       _2024hightlight12: {
+        url: buildUrl(t.lang, `/${t["2024highlights"]}/${t["2024highlight12"]}/`),
+        selector: buildSelector(t.lang, `/${t["2024highlights"]}/${t["2024highlight12"]}/`),
+      },
+       _2025hightlights: {
+        url: buildUrl(t.lang, `/${t["2025highlights"]}/`),
+        selector: buildSelector(t.lang, `/${t["2025highlights"]}/`)
+      },
+      _2025hightlight1: {
+        url: buildUrl(t.lang, `/${t["2025highlights"]}/${t["2025highlight1"]}/`),
+        selector: buildSelector(t.lang, `/${t["2025highlights"]}/${t["2025highlight1"]}/`),
+      },
+      _2025hightlight2: {
+        url: buildUrl(t.lang, `/${t["2025highlights"]}/${t["2025highlight2"]}/`),
+        selector: buildSelector(t.lang, `/${t["2025highlights"]}/${t["2025highlight2"]}/`),
+      },
+      _2025hightlight3: {
+        url: buildUrl(t.lang, `/${t["2025highlights"]}/${t["2025highlight3"]}/`),
+        selector: buildSelector(t.lang, `/${t["2025highlights"]}/${t["2025highlight3"]}/`),
+      },
+      _2025hightlight4: {
+        url: buildUrl(t.lang, `/${t["2025highlights"]}/${t["2025highlight4"]}/`),
+        selector: buildSelector(t.lang, `/${t["2025highlights"]}/${t["2025highlight4"]}/`),
+      },
+      _2025hightlight5: {
+        url: buildUrl(t.lang, `/${t["2025highlights"]}/${t["2025highlight5"]}/`),
+        selector: buildSelector(t.lang, `/${t["2025highlights"]}/${t["2025highlight5"]}/`),
+      },
+      _2025hightlight6: {
+        url: buildUrl(t.lang, `/${t["2025highlights"]}/${t["2025highlight6"]}/`),
+        selector: buildSelector(t.lang, `/${t["2025highlights"]}/${t["2025highlight6"]}/`),
+      },
+      _2025hightlight7: {
+        url: buildUrl(t.lang, `/${t["2025highlights"]}/${t["2025highlight7"]}/`),
+        selector: buildSelector(t.lang, `/${t["2025highlights"]}/${t["2025highlight7"]}/`),
+      },
+      _2025hightlight8: {
+        url: buildUrl(t.lang, `/${t["2025highlights"]}/${t["2025highlight8"]}/`),
+        selector: buildSelector(t.lang, `/${t["2025highlights"]}/${t["2025highlight8"]}/`),
+      },
+
     },
 
     // Footer Page
@@ -276,7 +513,51 @@ const siteLocators = (lang = "en") => {
         url: buildUrl(t.lang, `/${t.sitemap}/`),
         selector: buildSelector(t.lang, `/${t.sitemap}/`)
       }
-    }
+    },
+    annualReportPage: {
+      annualReport: {
+        url: buildUrl(t.lang, `/${t.annualReport}/`),
+        selector: buildSelector(t.lang, `/${t.annualReport}/`)
+      },
+      ceoMessage: {
+        url: buildUrl(t.lang,`/${t.annualReport}/${t.ceoMessage}/`),
+        selector: buildSelector(t.lang,`/${t.annualReport}/${t.ceoMessage}/`)
+      },
+      medTech: {
+        url: buildUrl(t.lang,`/${t.annualReport}/${t.medtech}/`),
+        selector: buildSelector(t.lang,`/${t.annualReport}/${t.medtech}/`)
+      },
+      wearables: {
+        url: buildUrl(t.lang,`/${t.annualReport}/${t.wearables}/`),
+        selector: buildSelector(t.lang,`/${t.annualReport}/${t.wearables}/`)
+      },
+      myopia: {
+        url: buildUrl(t.lang,`/${t.annualReport}/${t.myopia}/`),
+        selector: buildSelector(t.lang,`/${t.annualReport}/${t.myopia}/`)
+      },
+      iconicBrands: {
+        url: buildUrl(t.lang,`/${t.annualReport}/${t.iconicBrands}/`),
+        selector: buildSelector(t.lang,`/${t.annualReport}/${t.iconicBrands}/`)
+      },
+      sustainabilityMission: {
+        url: buildUrl(t.lang,`/${t.annualReport}/${t.sustainabilityMission}/`),
+        selector: buildSelector(t.lang,`/${t.annualReport}/${t.sustainabilityMission}/`)
+      },
+      headquarters: {
+        url: buildUrl(t.lang,`/${t.annualReport}/${t.headquarters}/`),
+        selector: buildSelector(t.lang,`/${t.annualReport}/${t.headquarters}/`)
+      }
+    },
+    standalonePage: {
+      oasi: {
+        url: buildUrl(t.lang, `/${t.oasi}/`),
+        selector: buildSelector(t.lang, `/${t.oasi}/`)
+      },
+      opthy: {
+        url: buildUrl(t.lang, `/${t.opthy}/`),
+        selector: buildSelector(t.lang, `/${t.opthy}/`)
+      }
+    },
   };
 };
 
